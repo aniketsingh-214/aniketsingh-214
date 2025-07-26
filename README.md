@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSam7c96o1nHXO6RvvdwHpmn00ZOzFVSaVLehCJLUyTdB7XC7oXbu-rp4Ev3RvoJkueW4M&usqp=CAU](https://media.istockphoto.com/id/1803992649/vector/software-development-coding-process-concept-programming-testing-cross-platform-code-app-on.jpg?s=612x612&w=0&k=20&c=9JX_Uhk0YSIqakQEXiSjo5NutvD4C8XOGIMc1cGRhiM=)" alt="Aniket Singh Banner" width="100%" />
+  <img src="https://media.istockphoto.com/id/1803992649/vector/software-development-coding-process-concept-programming-testing-cross-platform-code-app-on.jpg?s=612x612&w=0&k=20&c=9JX_Uhk0YSIqakQEXiSjo5NutvD4C8XOGIMc1cGRhiM=" alt="Aniket Singh Banner" width="100%" />
 </p>
 
 # 💫 About Me:
