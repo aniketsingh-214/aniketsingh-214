@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.iss.nus.edu.sg/community/newsroom/news-detail/2021/07/26/7-habits-of-highly-effective-software-developers" width="100%" />
+  <img src="https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aniket Singh</h1>
@@ -52,6 +52,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsingh-214&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aniketsingh-214&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
