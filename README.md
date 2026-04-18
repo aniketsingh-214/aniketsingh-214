@@ -30,7 +30,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="https://leetcode.com/u/bt21cse214/" target="_blank">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40"/>
 </a>
 </p>
 
